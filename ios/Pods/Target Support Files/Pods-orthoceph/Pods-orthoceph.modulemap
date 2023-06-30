@@ -1,0 +1,6 @@
+module Pods_orthoceph {
+  umbrella header "Pods-orthoceph-umbrella.h"
+
+  export *
+  module * { export * }
+}
